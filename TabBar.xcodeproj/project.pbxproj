@@ -1,0 +1,376 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		54212A471D93A94200548FB6 /* video2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 54212A461D93A94100548FB6 /* video2.mp4 */; settings = {ASSET_TAGS = (); }; };
+		54212A491D93D6CA00548FB6 /* IndiaSachin Tendulkar.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A481D93D6CA00548FB6 /* IndiaSachin Tendulkar.png */; settings = {ASSET_TAGS = (); }; };
+		54212A4B1D93D6D700548FB6 /* IndiaDhoni.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A4A1D93D6D700548FB6 /* IndiaDhoni.png */; settings = {ASSET_TAGS = (); }; };
+		54212A4D1D93D6ED00548FB6 /* IndiaVirat Kohli.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A4C1D93D6ED00548FB6 /* IndiaVirat Kohli.png */; settings = {ASSET_TAGS = (); }; };
+		54212A531D93D8A500548FB6 /* Sri LankaMarvan Atapattu.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A4E1D93D8A500548FB6 /* Sri LankaMarvan Atapattu.png */; settings = {ASSET_TAGS = (); }; };
+		54212A541D93D8A500548FB6 /* Sri LankaSanath Jayasuria.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A4F1D93D8A500548FB6 /* Sri LankaSanath Jayasuria.png */; settings = {ASSET_TAGS = (); }; };
+		54212A551D93D8A500548FB6 /* PakistanShahid Afridi.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A501D93D8A500548FB6 /* PakistanShahid Afridi.png */; settings = {ASSET_TAGS = (); }; };
+		54212A561D93D8A500548FB6 /* PakistanShoiab Akthar.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A511D93D8A500548FB6 /* PakistanShoiab Akthar.png */; settings = {ASSET_TAGS = (); }; };
+		54212A571D93D8A500548FB6 /* Sri LankaTilakaratne Dilshan.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A521D93D8A500548FB6 /* Sri LankaTilakaratne Dilshan.png */; settings = {ASSET_TAGS = (); }; };
+		54212A591D93D93500548FB6 /* PakistanImran khan.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A581D93D93500548FB6 /* PakistanImran khan.png */; settings = {ASSET_TAGS = (); }; };
+		54212A5D1D93DB4D00548FB6 /* India.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A5A1D93DB4D00548FB6 /* India.png */; settings = {ASSET_TAGS = (); }; };
+		54212A5E1D93DB4D00548FB6 /* Pakistan.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A5B1D93DB4D00548FB6 /* Pakistan.png */; settings = {ASSET_TAGS = (); }; };
+		54212A5F1D93DB4D00548FB6 /* Sri Lanka.png in Resources */ = {isa = PBXBuildFile; fileRef = 54212A5C1D93DB4D00548FB6 /* Sri Lanka.png */; settings = {ASSET_TAGS = (); }; };
+		542C19C21D92A0DD0042FB27 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 542C19C11D92A0DD0042FB27 /* main.m */; };
+		542C19C51D92A0DD0042FB27 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 542C19C41D92A0DD0042FB27 /* AppDelegate.m */; };
+		542C19CB1D92A0DD0042FB27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 542C19C91D92A0DD0042FB27 /* Main.storyboard */; };
+		542C19CD1D92A0DD0042FB27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 542C19CC1D92A0DD0042FB27 /* Assets.xcassets */; };
+		542C19D01D92A0DD0042FB27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 542C19CE1D92A0DD0042FB27 /* LaunchScreen.storyboard */; };
+		542C19D81D92A1810042FB27 /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = 542C19D71D92A1810042FB27 /* Property List.plist */; settings = {ASSET_TAGS = (); }; };
+		542C19DB1D92A22B0042FB27 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 542C19DA1D92A22B0042FB27 /* ViewController2.m */; settings = {ASSET_TAGS = (); }; };
+		542C19DE1D92A4D20042FB27 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 542C19DD1D92A4D20042FB27 /* ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		542C19E11D92B5390042FB27 /* ViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = 542C19E01D92B5390042FB27 /* ViewController3.m */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		54212A461D93A94100548FB6 /* video2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video2.mp4; sourceTree = "<group>"; };
+		54212A481D93D6CA00548FB6 /* IndiaSachin Tendulkar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IndiaSachin Tendulkar.png"; sourceTree = "<group>"; };
+		54212A4A1D93D6D700548FB6 /* IndiaDhoni.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IndiaDhoni.png; sourceTree = "<group>"; };
+		54212A4C1D93D6ED00548FB6 /* IndiaVirat Kohli.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IndiaVirat Kohli.png"; sourceTree = "<group>"; };
+		54212A4E1D93D8A500548FB6 /* Sri LankaMarvan Atapattu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sri LankaMarvan Atapattu.png"; sourceTree = "<group>"; };
+		54212A4F1D93D8A500548FB6 /* Sri LankaSanath Jayasuria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sri LankaSanath Jayasuria.png"; sourceTree = "<group>"; };
+		54212A501D93D8A500548FB6 /* PakistanShahid Afridi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PakistanShahid Afridi.png"; sourceTree = "<group>"; };
+		54212A511D93D8A500548FB6 /* PakistanShoiab Akthar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PakistanShoiab Akthar.png"; sourceTree = "<group>"; };
+		54212A521D93D8A500548FB6 /* Sri LankaTilakaratne Dilshan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sri LankaTilakaratne Dilshan.png"; sourceTree = "<group>"; };
+		54212A581D93D93500548FB6 /* PakistanImran khan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PakistanImran khan.png"; sourceTree = "<group>"; };
+		54212A5A1D93DB4D00548FB6 /* India.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = India.png; sourceTree = "<group>"; };
+		54212A5B1D93DB4D00548FB6 /* Pakistan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pakistan.png; sourceTree = "<group>"; };
+		54212A5C1D93DB4D00548FB6 /* Sri Lanka.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Sri Lanka.png"; sourceTree = "<group>"; };
+		542C19BD1D92A0DD0042FB27 /* TabBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		542C19C11D92A0DD0042FB27 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		542C19C31D92A0DD0042FB27 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		542C19C41D92A0DD0042FB27 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		542C19CA1D92A0DD0042FB27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		542C19CC1D92A0DD0042FB27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		542C19CF1D92A0DD0042FB27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		542C19D11D92A0DD0042FB27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		542C19D71D92A1810042FB27 /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		542C19D91D92A22B0042FB27 /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		542C19DA1D92A22B0042FB27 /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		542C19DC1D92A4D20042FB27 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		542C19DD1D92A4D20042FB27 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		542C19DF1D92B5390042FB27 /* ViewController3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController3.h; sourceTree = "<group>"; };
+		542C19E01D92B5390042FB27 /* ViewController3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController3.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		542C19BA1D92A0DD0042FB27 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		542C19B41D92A0DB0042FB27 = {
+			isa = PBXGroup;
+			children = (
+				542C19D71D92A1810042FB27 /* Property List.plist */,
+				542C19BF1D92A0DD0042FB27 /* TabBar */,
+				542C19BE1D92A0DD0042FB27 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		542C19BE1D92A0DD0042FB27 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				542C19BD1D92A0DD0042FB27 /* TabBar.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		542C19BF1D92A0DD0042FB27 /* TabBar */ = {
+			isa = PBXGroup;
+			children = (
+				542C19C31D92A0DD0042FB27 /* AppDelegate.h */,
+				542C19C41D92A0DD0042FB27 /* AppDelegate.m */,
+				542C19DC1D92A4D20042FB27 /* ViewController.h */,
+				542C19DD1D92A4D20042FB27 /* ViewController.m */,
+				542C19D91D92A22B0042FB27 /* ViewController2.h */,
+				542C19DA1D92A22B0042FB27 /* ViewController2.m */,
+				542C19DF1D92B5390042FB27 /* ViewController3.h */,
+				542C19E01D92B5390042FB27 /* ViewController3.m */,
+				54212A4C1D93D6ED00548FB6 /* IndiaVirat Kohli.png */,
+				54212A481D93D6CA00548FB6 /* IndiaSachin Tendulkar.png */,
+				54212A4A1D93D6D700548FB6 /* IndiaDhoni.png */,
+				54212A4E1D93D8A500548FB6 /* Sri LankaMarvan Atapattu.png */,
+				54212A4F1D93D8A500548FB6 /* Sri LankaSanath Jayasuria.png */,
+				54212A501D93D8A500548FB6 /* PakistanShahid Afridi.png */,
+				54212A581D93D93500548FB6 /* PakistanImran khan.png */,
+				54212A511D93D8A500548FB6 /* PakistanShoiab Akthar.png */,
+				54212A521D93D8A500548FB6 /* Sri LankaTilakaratne Dilshan.png */,
+				54212A5A1D93DB4D00548FB6 /* India.png */,
+				54212A5B1D93DB4D00548FB6 /* Pakistan.png */,
+				54212A5C1D93DB4D00548FB6 /* Sri Lanka.png */,
+				54212A461D93A94100548FB6 /* video2.mp4 */,
+				542C19C91D92A0DD0042FB27 /* Main.storyboard */,
+				542C19CC1D92A0DD0042FB27 /* Assets.xcassets */,
+				542C19CE1D92A0DD0042FB27 /* LaunchScreen.storyboard */,
+				542C19D11D92A0DD0042FB27 /* Info.plist */,
+				542C19C01D92A0DD0042FB27 /* Supporting Files */,
+			);
+			path = TabBar;
+			sourceTree = "<group>";
+		};
+		542C19C01D92A0DD0042FB27 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				542C19C11D92A0DD0042FB27 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		542C19BC1D92A0DD0042FB27 /* TabBar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 542C19D41D92A0DD0042FB27 /* Build configuration list for PBXNativeTarget "TabBar" */;
+			buildPhases = (
+				542C19B91D92A0DD0042FB27 /* Sources */,
+				542C19BA1D92A0DD0042FB27 /* Frameworks */,
+				542C19BB1D92A0DD0042FB27 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TabBar;
+			productName = TabBar;
+			productReference = 542C19BD1D92A0DD0042FB27 /* TabBar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		542C19B51D92A0DB0042FB27 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = chaitanya;
+				TargetAttributes = {
+					542C19BC1D92A0DD0042FB27 = {
+						CreatedOnToolsVersion = 7.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 542C19B81D92A0DC0042FB27 /* Build configuration list for PBXProject "TabBar" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 542C19B41D92A0DB0042FB27;
+			productRefGroup = 542C19BE1D92A0DD0042FB27 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				542C19BC1D92A0DD0042FB27 /* TabBar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		542C19BB1D92A0DD0042FB27 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				54212A531D93D8A500548FB6 /* Sri LankaMarvan Atapattu.png in Resources */,
+				54212A541D93D8A500548FB6 /* Sri LankaSanath Jayasuria.png in Resources */,
+				542C19D01D92A0DD0042FB27 /* LaunchScreen.storyboard in Resources */,
+				54212A5D1D93DB4D00548FB6 /* India.png in Resources */,
+				54212A491D93D6CA00548FB6 /* IndiaSachin Tendulkar.png in Resources */,
+				542C19CD1D92A0DD0042FB27 /* Assets.xcassets in Resources */,
+				542C19D81D92A1810042FB27 /* Property List.plist in Resources */,
+				54212A471D93A94200548FB6 /* video2.mp4 in Resources */,
+				542C19CB1D92A0DD0042FB27 /* Main.storyboard in Resources */,
+				54212A4B1D93D6D700548FB6 /* IndiaDhoni.png in Resources */,
+				54212A5E1D93DB4D00548FB6 /* Pakistan.png in Resources */,
+				54212A561D93D8A500548FB6 /* PakistanShoiab Akthar.png in Resources */,
+				54212A551D93D8A500548FB6 /* PakistanShahid Afridi.png in Resources */,
+				54212A571D93D8A500548FB6 /* Sri LankaTilakaratne Dilshan.png in Resources */,
+				54212A591D93D93500548FB6 /* PakistanImran khan.png in Resources */,
+				54212A5F1D93DB4D00548FB6 /* Sri Lanka.png in Resources */,
+				54212A4D1D93D6ED00548FB6 /* IndiaVirat Kohli.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		542C19B91D92A0DD0042FB27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				542C19DB1D92A22B0042FB27 /* ViewController2.m in Sources */,
+				542C19C51D92A0DD0042FB27 /* AppDelegate.m in Sources */,
+				542C19DE1D92A4D20042FB27 /* ViewController.m in Sources */,
+				542C19C21D92A0DD0042FB27 /* main.m in Sources */,
+				542C19E11D92B5390042FB27 /* ViewController3.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		542C19C91D92A0DD0042FB27 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542C19CA1D92A0DD0042FB27 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		542C19CE1D92A0DD0042FB27 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				542C19CF1D92A0DD0042FB27 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		542C19D21D92A0DD0042FB27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		542C19D31D92A0DD0042FB27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		542C19D51D92A0DD0042FB27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TabBar/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Neo-Rays.TabBar";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		542C19D61D92A0DD0042FB27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = TabBar/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Neo-Rays.TabBar";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		542C19B81D92A0DC0042FB27 /* Build configuration list for PBXProject "TabBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				542C19D21D92A0DD0042FB27 /* Debug */,
+				542C19D31D92A0DD0042FB27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		542C19D41D92A0DD0042FB27 /* Build configuration list for PBXNativeTarget "TabBar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				542C19D51D92A0DD0042FB27 /* Debug */,
+				542C19D61D92A0DD0042FB27 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 542C19B51D92A0DB0042FB27 /* Project object */;
+}

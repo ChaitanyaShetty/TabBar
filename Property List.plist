@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Sri Lanka</key>
+	<array>
+		<string>Tilakaratne Dilshan</string>
+		<string>Marvan Atapattu</string>
+		<string>Sanath Jayasuria</string>
+	</array>
+	<key>Pakistan</key>
+	<array>
+		<string>Imran khan</string>
+		<string>Shoiab Akthar</string>
+		<string>Shahid Afridi</string>
+	</array>
+	<key>India</key>
+	<array>
+		<string>Sachin Tendulkar</string>
+		<string>Dhoni</string>
+		<string>Virat Kohli</string>
+	</array>
+</dict>
+</plist>
